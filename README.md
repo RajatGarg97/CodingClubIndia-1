@@ -4,6 +4,7 @@ This repo is to demonstrate the GIT version control and promote hacktober fest.
 
 Please add your names below:
 
+Vaibhav Bansal ( Haryana )
 
 Rajat Garg (Delhi)
 
@@ -34,4 +35,12 @@ Shivam Gupta (Delhi)
 
 Mohammed Anas (Bangalore)
 
+
 INDERJEET(Jaipur)
+
+
+Puja Sharma (Kolkata)
+
+
+Shubho Chakraborty (Kolkata)
+
