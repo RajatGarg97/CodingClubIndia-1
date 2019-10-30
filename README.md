@@ -20,7 +20,13 @@ Ayush Das (Delhi)
 Vartika(Bhopal)
 
 
+Vaibhav Bansal ( Haryana )
+
+
 Rajat Garg (Delhi)
+
+
+Ravi Patel (Mumbai)
 
 
 Shivam Gupta (Delhi)
@@ -175,3 +181,27 @@ Sachin Kumar (Allahabad)
 Prajjwal Mishra (BangloreKA)
 
 Ayushi Agarwal (Uttar Pradesh)
+
+
+Mohammed Anas (Bangalore)
+
+
+Sanjay Kumar( Kochi)
+
+
+INDERJEET(Jaipur)
+
+
+Puja Sharma (Kolkata)
+
+
+Shubho Chakraborty (Kolkata)
+
+
+Harshit Patel ( Bhopal )
+
+
+Harshit Patel ( Bhopal)
+
+
+Nishant Mittal (Delhi)
